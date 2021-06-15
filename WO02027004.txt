@@ -1,0 +1,42 @@
+<110> Monsanto Technology LLC
+Chen, Guilan
+Hironaka, Catherine
+Zhou, Hua-Ping
+PCT/US01/29902
+<120> Glyphosate Tolerant Wheat Plant 33391 and Compositions
+Methods for Detection Thereof
+<130> 38-21(52232)A - MOBT:226P
+<140> 60/236,653 and 60/236,653
+<141> 2000-09-29
+<160> 12
+<170> PatentiIn version 3.0
+<210> 21
+<211> 32
+<212> DNA
+<213> Oryza sativa
+<400> 1
+egactcaaat acagatatge atttccaaaa ge
+<210> 2
+<211> 30
+<212> DNA
+<213> Oryza sativa
+<400> 2
+gactatcceg actctcttct caagcatatg
+<210> 3
+<211> 27
+<212> DNA
+<213> Agrobacterium tumefaciens
+<400> 3
+catgtaatge atgacgttat ttatgag
+<210> 4
+<211> 30
+<212> DNA
+<213> Agrobacterium tumefaciens
+<400> 4
+ategcgcgcg gtgtcatcta tgttactaga
+<210> 5
+<211l> 399
+32
+30
+27
+30
